@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=500&size=24&duration=4000&pause=300&color=1c1717&multiline=true&random=false&width=435&height=64&lines=LADATA;Liga+Acad%C3%AAmica+de+Ci%C3%AAncia+de+Dados">
 </picture>
 
----
 > _Revolucionando a ciência de dados com interdisciplinaridade, diversidade e colaboração_
 
 
