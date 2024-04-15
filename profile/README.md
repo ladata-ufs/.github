@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Work+Sans&weight=500&size=24&duration=3000&pause=500&color=E5E5E1&multiline=true&random=false&width=435&height=64&lines=LADATA;Liga+Acad%C3%AAmica+de+Ci%C3%AAncia+de+Dados)](https://github.com/ladata-ufs)
 ---
-> _Interdisciplinaridade, diversidade e colaboração_
+> _Revolucionando a ciência de dados com interdisciplinaridade, diversidade e colaboração_
 
 
 
