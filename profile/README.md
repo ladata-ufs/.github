@@ -31,7 +31,7 @@ A estrutura da LADATA é composta pela Diretoria Geral, formada por um corpo de 
 [![GitHub](https://img.shields.io/badge/-AnotherOne07-333333?style=flat&logo=github)](https://github.com/AnotherOne07)
 [![GitHub](https://img.shields.io/badge/-joaovmotas-333333?style=flat&logo=github)](https://github.com/joaovmotas)
 [![GitHub](https://img.shields.io/badge/-ievykiw-333333?style=flat&logo=github)](https://github.com/ievykiw)
-[![GitHub](https://img.shields.io/badge/-JhonatanPassos97-333333?style=flat&logo=github)](https://github.com/JhonatanPassos97)
+[![GitHub](https://img.shields.io/badge/-JhonatanPassos97-333333?style=flat&logo=github)](https://github.com/JhonatanPassos97)  
 [![GitHub](https://img.shields.io/badge/-cteimachDCOMP-333333?style=flat&logo=github)](https://github.com/cteimachDCOMP)
 [![GitHub](https://img.shields.io/badge/-LucasFe3152-333333?style=flat&logo=github)](https://github.com/LucasFe3152)
 [![GitHub](https://img.shields.io/badge/-ThiagoCastro98-333333?style=flat&logo=github)](https://github.com/ThiagoCastro98)
