@@ -19,18 +19,17 @@ A estrutura da LADATA é composta pela Diretoria Geral, formada por um corpo de 
 |---                                                  |---|
 |Presidente                                           | [Luiz Gustavo](https://github.com/Gugu-debug) |
 |Vice-Presidente                                      | [Túlio Sousa](https://github.com/tuliosg) |
+|Secretaria Geral                                     | [Eduarda Mascarenhas](https://github.com/dudxyz) |
 |Diretoria Administrativa                             | [Mariana Dias](https://github.com/MarianaXBDias) |
 |Diretoria de Desenvolvimento Organizacional e Humano | [Pedro Paulo](https://github.com/pepepepu) |
 |Diretoria de Marketing e Comunicação                 | [Nayla Chagas](https://github.com/nhawlao) |
 |Diretoria de Projetos                                | [Sérgio Manhães](https://github.com/sergio-UFS) |
-|Diretoria de Pesquisa                                | [Vinícius Moitinho](https://github.com/vmoitinhoss) |
+|Diretoria de Pesquisa                                | [Kely Murta](https://github.com/kelymurta) |
 |Diretoria de Eventos                                 | [Edimilton Santana](https://github.com/Edimilton) |
 
 ### Ligantes
 [![GitHub](https://img.shields.io/badge/-AnotherOne07-333333?style=flat&logo=github)](https://github.com/AnotherOne07)
 [![GitHub](https://img.shields.io/badge/-joaovmotas-333333?style=flat&logo=github)](https://github.com/joaovmotas)
-[![GitHub](https://img.shields.io/badge/-kelymurta-333333?style=flat&logo=github)](https://github.com/kelymurta)
-[![GitHub](https://img.shields.io/badge/-dudxyz-333333?style=flat&logo=github)](https://github.com/dudxyz)
 [![GitHub](https://img.shields.io/badge/-ievykiw-333333?style=flat&logo=github)](https://github.com/ievykiw)
 [![GitHub](https://img.shields.io/badge/-JhonatanPassos97-333333?style=flat&logo=github)](https://github.com/JhonatanPassos97)
 [![GitHub](https://img.shields.io/badge/-cteimachDCOMP-333333?style=flat&logo=github)](https://github.com/cteimachDCOMP)
