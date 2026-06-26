@@ -21,11 +21,10 @@ A estrutura da LADATA é composta pela Diretoria Geral, formada por um corpo de 
 |Vice-Presidente                                      | [Clarice Lopes](https://github.com/claricefoliv) |
 |Secretaria Geral                                     | [Francisco Almir Junior]((https://github.com/AnotherOne07)) |
 |Diretoria Administrativa                             | [Ricardo Nabuco](https://github.com/ricardonabucoo) |
-<! |Diretoria de Desenvolvimento Organizacional e Humano | [Pedro Paulo](https://github.com/pepepepu) | >
 |Diretoria de Marketing e Comunicação                 | [Letícia Rezende](https://github.com/leticiare) |
 |Diretoria de Projetos                                | [Yamí Nascimento](https://github.com/yamikrpto) |
-<! |Diretoria de Pesquisa                                | [Kely Murta](https://github.com/kelymurta) | >
-<! |Diretoria de Eventos                                 | [Edimilton Santana](https://github.com/Edimilton) | >
+
+
 
 ### Ligantes
 [![GitHub](https://img.shields.io/badge/-AnotherOne07-333333?style=flat&logo=github)](https://github.com/AnotherOne07)
