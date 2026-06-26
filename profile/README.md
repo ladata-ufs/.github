@@ -17,15 +17,15 @@ A estrutura da LADATA é composta pela Diretoria Geral, formada por um corpo de 
 
 |Cargo                                                | Responsável|
 |---                                                  |---|
-|Presidente                                           | [Luiz Gustavo](https://github.com/Gugu-debug) |
-|Vice-Presidente                                      | [Túlio Sousa](https://github.com/tuliosg) |
-|Secretaria Geral                                     | [Eduarda Mascarenhas](https://github.com/dudxyz) |
-|Diretoria Administrativa                             | [Mariana Dias](https://github.com/MarianaXBDias) |
-|Diretoria de Desenvolvimento Organizacional e Humano | [Pedro Paulo](https://github.com/pepepepu) |
-|Diretoria de Marketing e Comunicação                 | [Nayla Chagas](https://github.com/nhawlao) |
-|Diretoria de Projetos                                | [Sérgio Manhães](https://github.com/sergio-UFS) |
-|Diretoria de Pesquisa                                | [Kely Murta](https://github.com/kelymurta) |
-|Diretoria de Eventos                                 | [Edimilton Santana](https://github.com/Edimilton) |
+|Presidente                                           | [Vinicius Leite Xavier](https://github.com/viniXLeite) |
+|Vice-Presidente                                      | [Clarice Lopes](https://github.com/claricefoliv) |
+|Secretaria Geral                                     | [Francisco Almir Junior]((https://github.com/AnotherOne07)) |
+|Diretoria Administrativa                             | [Ricardo Nabuco](https://github.com/ricardonabucoo) |
+<! |Diretoria de Desenvolvimento Organizacional e Humano | [Pedro Paulo](https://github.com/pepepepu) | >
+|Diretoria de Marketing e Comunicação                 | [Letícia Rezende](https://github.com/leticiare) |
+|Diretoria de Projetos                                | [Yamí Nascimento](https://github.com/yamikrpto) |
+<! |Diretoria de Pesquisa                                | [Kely Murta](https://github.com/kelymurta) | >
+<! |Diretoria de Eventos                                 | [Edimilton Santana](https://github.com/Edimilton) | >
 
 ### Ligantes
 [![GitHub](https://img.shields.io/badge/-AnotherOne07-333333?style=flat&logo=github)](https://github.com/AnotherOne07)
