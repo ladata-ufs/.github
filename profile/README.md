@@ -19,7 +19,7 @@ A estrutura da LADATA é composta pela Diretoria Geral, formada por um corpo de 
 |---                                                  |---|
 |Presidente                                           | [Vinicius Leite Xavier](https://github.com/viniXLeite) |
 |Vice-Presidente                                      | [Clarice Lopes](https://github.com/claricefoliv) |
-|Secretaria Geral                                     | [Francisco Almir Junior]((https://github.com/AnotherOne07)) |
+|Secretaria Geral                                     | [Francisco Almir Junior](https://github.com/AnotherOne07)|
 |Diretoria Administrativa                             | [Ricardo Nabuco](https://github.com/ricardonabucoo) |
 |Diretoria de Marketing e Comunicação                 | [Letícia Rezende](https://github.com/leticiare) |
 |Diretoria de Projetos                                | [Yamí Nascimento](https://github.com/yamikrpto) |
